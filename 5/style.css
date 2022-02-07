@@ -1,0 +1,166 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+    text-decoration: none;
+    color: green;
+    font-family: VT323;
+}
+
+.page{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.sepSup{
+    height: 30px;
+    flex-grow: 1;
+}
+
+.barraVerdeSup{
+    height: 10px;
+    flex-grow: 1;
+    background-color: green;
+    animation-name: greenPulseBackground;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    
+}
+
+.spaceSupLogo{
+    height: 10px;
+    flex-grow: 1;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoAscii{
+    font-size: 10px;
+    animation-name: greenPulseBlack;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.spaceInfLogo{
+    height: 10px;
+    flex-grow: 1;
+}
+
+.repositoryName{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.repText{
+    font-size: 25px;
+    padding: 5px;
+    animation-name: greenPulse;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.buttonSpace{
+    display: flex;
+}
+
+.button{
+    display: flex;
+    height: 80px;
+    flex-grow: 1;
+    align-items: center;
+    background-color: #1e1e1e;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    animation-name: buttonColor;
+    animation-duration: 1s;
+    animation-timing-function: inherit;
+    animation-iteration-count: infinite;
+}
+
+.button:hover .textButton{
+    color: #00ff0a;
+}
+
+.button:hover .contentTxt{
+    color: #00ff0a;
+}
+
+.buttonSep{
+    height: 25px;
+    flex-grow: 1;
+}
+
+.buttonBlack{
+    display: flex;
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.buttonContent{
+    font-size: 50px
+}
+
+
+.textButton{
+    font-size: 45px;
+    margin-left: 10px;
+}
+
+@keyframes buttonColor{
+    0%{
+
+    }
+    50%{
+        background-color: black;
+    }
+    100% {
+
+    }
+}
+
+
+@keyframes greenPulse {
+    0%{
+
+    } 50% {
+        color: #00ff0a;
+    } 100% {
+
+    }
+}
+
+@keyframes greenPulseBackground {
+    0%{
+
+    } 50% {
+        background-color: #00ff0a;
+    } 100% {
+
+    }
+}
+
+@keyframes greenPulseBlack {
+    0%{
+        color: black;
+    } 25% {
+        color: #00ff0a;
+    } 50% {
+
+    } 100% {
+        color: black;
+    }
+}
