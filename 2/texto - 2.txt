@@ -1,0 +1,59 @@
+Objetivo:
+Explicar o motivo do repositório. [X]
+Breves informações sobre a ordem.
+Dar um breve background sobre o mundo.
+Contextualizar IoT, Cidades inteligentes, Algoritmos, monitoramento e capitalismo de informações.
+
+Item n: Nivel 2/025-PT
+Super Secreto
+Arquivos e dados recuperados dos bancos de dados da Ordem.
+
+AVISO: O BANCO DE DADOS DA ORDEM É **CONFIDENCIAL**
+ACESSO POR INDIVÍDUOS NÃO AUTORIZADOS É ESTRITAMENTE PROIBIDO
+INVASORES SERÃO RASTREADOS, LOCALIZADOS E DETIDOS.
+
+Data de digitalização: 13/01/2042
+
+Segue abaixo as informações recuperadas pela equipe de exploração do sítio oficial. Os arquivos recuperados foram compilados em uma série de trechos identificados respectivamente por seus códigos de entrada. A partir de uma análise de suas informações, é constado que os dados obtidos relatam um histórico breve sobre a situação de origem da ordem.
+
+
+
+Arquivo #001-A
+Código de Entrada: 22112038
+
+"O principal exemplo que utilizamos para basear nossas pesquisas e ações são encontrados em todos os lugares, no cotidiano, a história de nosso mundo, nos obscuros antecedentes das mega corporações que espionam nossas vidas e nos pensamentos sobre o atual futuro e estado da humanidade de modo geral."
+"Nossa privacidade tem sido cada vez mais usurpada de nossas mãos através das máquinas que nos cercam. Os indicios relatam que após o grande surto da cybertecnologia, influenciada pela moda e tendencias tecnológicas da época, um grande estouro ocorreu na área da automação."
+"Os previamente estabelecidos algoritmos de automação e sugestão, encontrados em sites de compra, sites de relacionamento, browsers de pesquisa e entre tantos outros, tiveram um papel fundamental para o cataclisma que enfrentamos hoje em dia."
+"No inicio da pós evolução, um movimento peculiar surgiu dentro da rede, uma série de desenvolvedores se apropriou de um algoritmo para a criação automatica de memes a partir de diversos banco de imagens, se utilizando de um algoritmo de edição, busca e sugestão para elaborar uma vasta galeria interativa de imagens e memes dos mais diversos contextos, de modo que o sistema poderia adqurir dados do usuário e com base em seu histórico, gostos e outros aspectos, recomendar memes que mais lhe fariam sentido. O projeto aderiu como nome [REDACTED]."
+"Por mais que a procedencia dos procedimentos de obtenção de informações tenham causado uma certa dúvida em meio da comunidade, o projeto foi um sucesso. Muitos acreditam que essa pequena empreitada foi o começo de um grande movimento que surgiria nos anos posteriores, quando as cópias dos processos algoritmos, variações e melhorias surgiriam com força total."
+
+Arquivo #003-A
+Código de Entrada: 30022039
+
+"Observando o monopolio digital de memes e informações obtidos pelo projeto [REDACTED], naturalmente uma série de clones e copias surgiram logo em seguida, apresentando novas utilização e implementações do código em larga escala, atraindo ainda mais atenção para o mesmo estilo de criação algoritmica e utilização de inteligencia artificial. Juntamente com as diversas novas reinvenções, também vieram uma grande maré de aplicações nocivas e mal uso de algoritmos. O principal caso que vale a pena ser citado foi o escândalo [REDACTED], onde, a partir de uma série de investigações externas, foi-se descoberto que as informações coletadas de seus usuários eram vendidas para sites de recomendação, aplicativos de venda e diversas outras redes de direcionamento."
+"Por mais que o caso tenha sido abafado pelos agentes legais da corporação [REDACTED], é interessante observar a situação para melhor entendermos o funcionamento dos eventos que se seguiram."
+
+Arquivo #008-B
+Código de Entrada: Ɔ̴̨̿ó̶͓ɿ̷͙̈́ɿ̴͔͌υ̷̮̇q̴͓̉Ɉ̷͍͂ɘ̸̒
+**MEGACORP. HAVEN**
+Megacorporação mundial que lida com segurança corporativa e possui um monopólio de plataformas sociais, bancos e manufaturas. É uma das megacorporações mais influentes do mundo. A empresa também é a maior distribuidora de mercadores voltadas para o setor de segurança, competindo apenas com a Corporação Arasaka. Ao longo dos anos desenvolveu uma reputação obscura como a pioneira na obtenção e venda de informações e perfis de seus usuários
+
+
+Rumo á ascenção da estrela.
+
+
+
+- Máquinas Pensantes = Algoritmos
+- Memes automatizados = Algoritmos
+- Geração automatica de preferencias = Algoritmos
+- Sugestões Manipulativas = Algoritmos
+- Remoção da decisão humana = Algoritmos
+- Algoritmos gerando Algoritmos = Algoritmos
+- Opacidade Algoritmica = Algoritmos
+- "Frank Pasquale ao mencionar que alguns planos de saúde se negaram a aceitar uma mulher que consumir
+antidepressivos para facilitar o sono" . O registro histórico do uso de tais medicamentos, que poderia até ajudá-la se mantido rigorosamente com propósitos sanitários, foi apresentado contra ela com base em premissas relacionadas ao uso dessas drogas." "Em outubro de 2016, artigo[35] da publicação eletrônica poliTICs, ao tratar da influência negativa de algoritmos e os riscos para os cidadãos, utiliza o livro The Black Box Society, que descreve o caso de alguns planos de saúde, nos EUA, que se negaram a aceitar uma mulher que consumia antidepressivos para facilitar o sono. Os registros históricos e o uso de tais medicamentos foram utilizados contra ela por essas empresas." = Algoritmos
+
+
+
+
+ 
